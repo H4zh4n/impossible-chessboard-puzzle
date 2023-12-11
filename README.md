@@ -1,4 +1,6 @@
-# flutt
+<img src="https://i.imgur.com/uyWVRAa.png" width="200px"/> 
+
+# Impossible Chessboard Puzzle 
 
 A project to play and test impossible chessboard puzzle
 
