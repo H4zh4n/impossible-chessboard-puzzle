@@ -44,7 +44,8 @@ In the main page
 
 ## Custom boards
 
-*Mirrored* : has a pleasing look when you place the key on the top 4 rows, the tile flip is always set at the same relative position at the bottom 4 rows. When key placed at the bottom 4 rows flip tiles is market on the above 4 rows same position.
+#### *Mirrored*
+Has a pleasing look when you place the key on the top 4 rows, the tile flip is always set at the same relative position at the bottom 4 rows. When key placed at the bottom 4 rows flip tiles is market on the above 4 rows same position.
 
 ```  
 t t t t t h t t  
@@ -56,3 +57,4 @@ t h h t h h t h
 t t h h t t h t  
 h t h t t t h t  
 ```
+![mirror](https://github.com/H4zh4n/impossible-chessboard-puzzle/assets/47919702/d249e225-3aa5-4dc3-8149-824f99d787ae)
