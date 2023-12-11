@@ -1,4 +1,4 @@
-# The Impossible Chessboard Puzzle
+# flutt
 
 A project to play and test impossible chessboard puzzle
 
