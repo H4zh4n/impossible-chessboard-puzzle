@@ -20,7 +20,7 @@ Detailed explanation at 3Blue1Brown :
 - ***Dynamic Board*** : The boards are all dynamic. you can setup the board anyway you like, and the entire explanations will be around that board configurations.
 - ***WHAT!?*** : explains what you should flip for the second person. when you setup the board and select a key, touch **WHAT!?** and it will explain it step by step what you should do if you don't have the app.
 - ***WHERE!?*** : Explains what the second person should do to find the key.
-- ***Import/Export*** : Export or Import board configurations. [Fun boards at the bottom](#custom-boards).
+- ***Import/Export*** : Export or Import board configurations. [Fun board configurations at the bottom](#board-configurations).
 - ***Reset*** : Resets the board all to tails.
 - ***Random*** : Random board configuration.
 
@@ -42,7 +42,7 @@ In the main page
 
 
 
-## Custom boards
+## Board Configurations
 
 #### *Mirrored*
 Has a pleasing look when you place the key on the top 4 rows, the tile flip is always set at the same relative position at the bottom 4 rows. When key placed at the bottom 4 rows flip tiles is market on the above 4 rows same position.
