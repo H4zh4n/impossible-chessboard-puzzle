@@ -6,7 +6,7 @@ A project to play and test impossible chessboard puzzle
 
 > **Support** : Android, iOS, macOS, Linux, Web, Windows
 
-- **Web Live demo** : https://haxhan.web.app/chess/
+- **Web Live demo** : https://haxhan.web.app/impossible_chessboard_puzzle/
 - **Windows + Android build** : [Release](https://github.com/H4zh4n/impossible-chessboard-puzzle/releases). 
 
 ### Game premise
