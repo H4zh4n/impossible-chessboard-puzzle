@@ -6,6 +6,9 @@ A project to play and test impossible chessboard puzzle
 
 > **Support** : Android, iOS, macOS, Linux, Web, Windows
 
+- **Web Live demo** : https://haxhan.web.app/chess/
+- **Windows + Android build** : [Release](https://github.com/H4zh4n/impossible-chessboard-puzzle/releases). 
+
 ### Game premise
 The impossible chessboard puzzle is a mathematical puzzle in which a prisoner is shown a chessboard with 64 coins, each of which is showing either heads or tails. The prisoner is then allowed to flip one coin, and then another prisoner enters the room and must try to guess which square the warden hid the key under.
 
