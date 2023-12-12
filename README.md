@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/uyWVRAa.png" width="200px"/> 
 
-# Impossible Chessboard Puzzle 
+
+# <img src="assets/icons/app_icon.png" width="24px"/> Impossible Chessboard Puzzle  <img src="https://i.imgur.com/uyWVRAa.png" width="24px"/> 
 
 A project to play and test impossible chessboard puzzle
 
