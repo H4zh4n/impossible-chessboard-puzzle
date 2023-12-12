@@ -11,7 +11,7 @@ The impossible chessboard puzzle is a mathematical puzzle in which a prisoner is
 
 Detailed explanation at 3Blue1Brown :
 
-[![](https://i.imgur.com/wlWTfst.png)](https://www.youtube.com/watch?v=wTJI_WuZSwE)
+[![3Blue1Brown](https://github.com/H4zh4n/impossible-chessboard-puzzle/assets/47919702/a6d0271e-8088-41fd-9caf-785c41e17fbb)](https://www.youtube.com/watch?v=wTJI_WuZSwE)
 
 ### App Functionalities
 - ***Dynamic Board*** : The boards are all dynamic. you can setup the board anyway you like, and the entire explanations will be around that board configurations.
