@@ -9,10 +9,7 @@ A project to play and test impossible chessboard puzzle
 ### Game premise
 The impossible chessboard puzzle is a mathematical puzzle in which a prisoner is shown a chessboard with 64 coins, each of which is showing either heads or tails. The prisoner is then allowed to flip one coin, and then another prisoner enters the room and must try to guess which square the warden hid the key under.
 
-Imagine that below board is the board presented to you, and you must flip ONE COIN ONLY so that the prisoner who enters after you knows where the key is.  
-which coin would you choose ?
-
-If still unclear, watch the amazing 3Blue1Brown video on the topic :
+Detailed explanation at 3Blue1Brown :
 
 [![](https://i.imgur.com/wlWTfst.png)](https://www.youtube.com/watch?v=wTJI_WuZSwE)
 
