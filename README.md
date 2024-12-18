@@ -45,7 +45,7 @@ In the main page
 ## Board Configurations
 
 #### *Mirrored*
-Has a pleasing look when you place the key on the top 4 rows, the tile flip is always set at the same relative position at the bottom 4 rows. When key placed at the bottom 4 rows flip tiles is market on the above 4 rows same position.
+Has a pleasing look when you place the key on the top 4 rows, the tile flip is always set at the same relative position at the bottom 4 rows. When key placed at the bottom 4 rows, flip tiles are placed on the above 4 rows in the same position.
 
 ```  
 t t t t t h t t  
